@@ -37,10 +37,7 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/basic-rules-for-walking-in-the-mountains.md
 - src/pages/posts/fox-village-in-japan.md
 - src/pages/posts/fragments-of-iceland.md
 - src/pages/posts/moving-to-new-york.md
-- src/pages/posts/relax-in-nature.md
 - src/pages/posts/revealed-only-20-intensive-care-bed-s-left-on-the-nhs.md
-- src/pages/posts/working-from-home.md
