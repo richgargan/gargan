@@ -7,6 +7,6 @@ thumb_img_path: "/images/nhsbed1.jpg"
 content_img_path: "/images/nhsbed1-1.jpg"
 excerpt: We reveal new data which shows the NHS has only 20 intensive care bed's left
   and that the NHS has hired a cold storage lorry as a temporary morgue.
-slug: test
+slug: test-test
 
 ---
