@@ -6,5 +6,6 @@ date: 2020-03-24T23:00:00Z
 thumb_img_path: "/images/nhsbed1.jpg"
 content_img_path: "/images/nhsbed1-1.jpg"
 excerpt: ''
+slug: my-custom-slug
 
 ---
