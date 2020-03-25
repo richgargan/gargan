@@ -10,7 +10,7 @@ sections:
     bed shortage.
   actions:
   - label: 'Read More: NHS Bed Shortage'
-    url: "/about"
+    url: https://gargan.com/posts/revealed-only-20-intensive-care-bed-s-left-on-the-nhs/
 menus:
   main:
     title: Home
