@@ -36,5 +36,10 @@ fields:
   default: post
   config:
     required: true
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
 pages:
 - src/pages/posts/revealed-only-20-intensive-care-bed-s-left-on-the-nhs.md
